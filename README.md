@@ -7,4 +7,4 @@ Medical Insurance Project -
     Used interaction terms  
     Log-transforming  
   
-Real Estate Project -
+Bike Rental Project -
